@@ -15,5 +15,8 @@
     "craft"
   ],
   "author": "L1lith",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "prismarine-nbt": "^1.2.0"
+  }
 }
