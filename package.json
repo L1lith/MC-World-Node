@@ -1,0 +1,19 @@
+{
+  "name": "mc-world-node",
+  "version": "0.0.1",
+  "description": "A minecraft world editor for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "minecraft",
+    "mc",
+    "world",
+    "editor",
+    "mine",
+    "craft"
+  ],
+  "author": "L1lith",
+  "license": "MIT"
+}
